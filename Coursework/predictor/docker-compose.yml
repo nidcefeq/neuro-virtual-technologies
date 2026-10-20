@@ -1,0 +1,6 @@
+services:
+  predictor:
+    build: .
+    image: rf-predictor
+    ports:
+      - "8000:8000"
