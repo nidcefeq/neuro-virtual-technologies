@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 1a8dcfd544fa3c043bd5218b879339b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7599757593734400316
+    second: Catto_R_UpperArm
+  - first:
+      213: 7716668502510383693
+    second: Catto_Head
+  - first:
+      213: 1746963280372842376
+    second: Catto_2
+  - first:
+      213: 5024525978751626215
+    second: Catto_R_LowerArm
+  - first:
+      213: 805448955949590605
+    second: Catto_Body
+  - first:
+      213: 5717739096704661432
+    second: Catto_L_UpperArm
+  - first:
+      213: 4793839022677767476
+    second: Catto_R_Hand
+  - first:
+      213: 9104751076859441737
+    second: Catto_L_Hand
+  - first:
+      213: -1676038906331969485
+    second: Catto_L_LowerArm
+  - first:
+      213: 1801866995169177298
+    second: Catto_9
+  - first:
+      213: -7274915568966639539
+    second: Catto_R_UpperLeg
+  - first:
+      213: -8548416156764655344
+    second: Catto_L_UpperLeg
+  - first:
+      213: -6760026031255235778
+    second: Catto_R_LowerLeg
+  - first:
+      213: -3276349928307390036
+    second: Catto_R_Foot
+  - first:
+      213: -3710439442713465908
+    second: Catto_L_Foot
+  - first:
+      213: 7303527230102610895
+    second: Catto_L_LowerLeg
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Catto_R_UpperArm
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 252
+        width: 21
+        height: 17
+      alignment: 9
+      pivot: {x: 0.8790857, y: 0.9352758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea31d5978e1e9e44f97ebb53c1be49ad
+      internalID: 7599757593734400316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_Head
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 258
+        width: 180
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5130702, y: 0.15731782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4350a29a5107d8746b1a512687c2a5e6
+      internalID: 7716668502510383693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_R_LowerArm
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 185
+        width: 28
+        height: 19
+      alignment: 9
+      pivot: {x: 0.09707165, y: 0.1621688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2a58bb89a5caa4b9f4252047612f0b
+      internalID: 5024525978751626215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_Body
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 103
+        width: 51
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbcd590b16995a408c5e47c5eddb4dc
+      internalID: 805448955949590605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_L_UpperArm
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 201
+        width: 21
+        height: 25
+      alignment: 9
+      pivot: {x: 0.28255644, y: 0.93670654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee912ad5b5d56a409ece8a8dd133d50
+      internalID: 5717739096704661432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_R_Hand
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 138
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.23107402, y: 0.5780748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb349418c60c1694c8b14dcb90a3d5bb
+      internalID: 4793839022677767476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_L_Hand
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.40692228, y: 0.72176385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9451d8bef74784341a0b0b0c65a4e560
+      internalID: 9104751076859441737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_L_LowerArm
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 166
+        width: 27
+        height: 16
+      alignment: 9
+      pivot: {x: 0.9049897, y: 0.8231096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a707c73e52278c54088a11b4b95f0020
+      internalID: -1676038906331969485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_R_UpperLeg
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 75
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.87276256, y: 0.9322763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66c09950ba7786419ebd2cf1175d01a
+      internalID: -7274915568966639539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_L_UpperLeg
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 85
+        width: 37
+        height: 18
+      alignment: 9
+      pivot: {x: 0.25791395, y: 0.7455237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ba6c4de0d07bc46a86197900bcc60e
+      internalID: -8548416156764655344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_R_LowerLeg
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.14407434, y: 0.10379431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e071c2a834e974dabc409e3e09ba00
+      internalID: -6760026031255235778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_R_Foot
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 24
+        width: 52
+        height: 29
+      alignment: 9
+      pivot: {x: 0.3178717, y: 0.8826515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2ddb13e51ec1242bd439f18227cb78
+      internalID: -3276349928307390036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_L_Foot
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 26
+        width: 53
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33839935, y: 0.7475773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb5fe6af7c870745b0f3b1265309771
+      internalID: -3710439442713465908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catto_L_LowerLeg
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 48
+        width: 11
+        height: 33
+      alignment: 9
+      pivot: {x: 0.24151888, y: 0.115943216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c561fde2efcb46857b7f1536c81f3
+      internalID: 7303527230102610895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8d457dc3f1b44fc48a9e34eae21ce899
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Catto_Body: 805448955949590605
+      Catto_Head: 7716668502510383693
+      Catto_L_Foot: -3710439442713465908
+      Catto_L_Hand: 9104751076859441737
+      Catto_L_LowerArm: -1676038906331969485
+      Catto_L_LowerLeg: 7303527230102610895
+      Catto_L_UpperArm: 5717739096704661432
+      Catto_L_UpperLeg: -8548416156764655344
+      Catto_R_Foot: -3276349928307390036
+      Catto_R_Hand: 4793839022677767476
+      Catto_R_LowerArm: 5024525978751626215
+      Catto_R_LowerLeg: -6760026031255235778
+      Catto_R_UpperArm: 7599757593734400316
+      Catto_R_UpperLeg: -7274915568966639539
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
