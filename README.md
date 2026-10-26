@@ -26,3 +26,4 @@ docker compose up -d
 ```
 
 После запуска проверка доступна по адресу `http://127.0.0.1:8000/health`, предсказание — `POST /predict`.
+Swagger: http://localhost:8000/docs - 
